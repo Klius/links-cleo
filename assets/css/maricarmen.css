@@ -1,0 +1,6 @@
+body,.container-fluid, .container{
+   background: #f7f2ec url("/assets/img/fondo.jpg") repeat scroll top left;
+}
+/*.container-fluid, .container{
+    background:#ffffff;
+}*/
